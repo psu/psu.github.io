@@ -1,2 +1,3 @@
-- [Design](design.md)
-- [Code](code.md)
+- Menu
+  - [Design](design.md)
+  - [Code](code.md)
