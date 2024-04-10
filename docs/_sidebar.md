@@ -1,3 +1,0 @@
-- Menu
-  - [Design](design.md)
-  - [Code](code.md)
