@@ -1,2 +1,2 @@
-* [Design](#/design)
-* [Code](#/code)
+* [Design](design.md)
+* [Code](code.md)
