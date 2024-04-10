@@ -1,2 +1,2 @@
-* [Design](design.md)
-* [Code](code.md)
+- [Design](design.md)
+- [Code](code.md)
