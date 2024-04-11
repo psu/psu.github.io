@@ -1,4 +1,0 @@
-- [About](/)
-- [Design](design.md)
-- [Code](code.md)
-- [@In](https://linkedin.com/in/pontussunden)
