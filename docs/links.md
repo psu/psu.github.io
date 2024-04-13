@@ -2,5 +2,5 @@
 
 ---
 
-[`my email: pontus@psu.se`](mailto:pontus@psu.se)  
-[`linkedin: /pontussunden`](https://linkedin.com/in/pontussunden)
+[`pontus@psu.se`](mailto:pontus@psu.se) / 
+[`linkedin`](https://linkedin.com/in/pontussunden)
