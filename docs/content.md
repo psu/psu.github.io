@@ -4,7 +4,7 @@
 ![Wizard Cubes tesselation](media/wizard-cubes.jpg)
 
 **Adobe After Effects**
-![vid](media/fhv-stress.mp4 ':include :type=video controls loop muted width=100%')
+![vid](media/fhv-stress.mp4 ':include :type=video controls loop muted width=100% height=56%')
 
 **Chalk Paint**
 [![Coffee table fix-up](media/coffee-table.jpg)](/assets/coffee-table-process.jpg)
