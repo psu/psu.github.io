@@ -3,12 +3,13 @@
 <br>
 
 **iOrnament**
-![Wizard Cubes tesselation](media/wizard-cubes.jpg)
+[![Wizard Cubes tesselation](media/wizard-cubes.jpg)
+](https://science-to-touch.com/en/iOrnament.html)
 
 <br>
 
 **Adobe After Effects**
-![vid](media/fhv-stress.mp4 ':include :type=video controls loop muted width=100% height=56%')
+![Animated marketing content](media/fhv-stress.mp4 ':include :type=video controls loop muted width=100% height=56%')
 
 <br>
 
@@ -24,5 +25,7 @@
 
 
 **My 9 to 5**
-![Vaimo](media/dayjob.jpg)
+[![Vaimo](media/dayjob.jpg)
+](https://www.vaimo.com/expertise/data-management/product-information-management-pim/)
+
 <br>
