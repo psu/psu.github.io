@@ -1,3 +1,3 @@
-## `contact`
+`contact`
 [`email: pontus@psu.se`](mailto:pontus@psu.se)  
-[linkedin: pontussunden](https://linkedin.com/in/pontussunden)
+[`linkedin: pontussunden`](https://linkedin.com/in/pontussunden)
