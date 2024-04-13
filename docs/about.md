@@ -1,3 +1,7 @@
+![Pontus Sundén](media/pontussunden.png)
+
+<br>
+
 # pontus.cc
 
 <br>
