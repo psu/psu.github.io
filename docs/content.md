@@ -11,3 +11,6 @@
 
 **Adobe Illustrator**
 ![Band flyer illustrations](media/greta-flyer.png)
+
+**My 9 to 5**
+![Vaimo](media/dayjob.jpg)
