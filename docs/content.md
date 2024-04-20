@@ -2,6 +2,12 @@
 
 <br>
 
+**Apple Shortcuts**
+- Tana
+- 
+
+<br>
+
 **iOrnament**
 [![Wizard Cubes tesselation](media/wizard-cubes.jpg)
 ](https://science-to-touch.com/en/iOrnament.html)
