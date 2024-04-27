@@ -3,7 +3,7 @@
 <br>
 
 **Apple Shortcuts**
--
+![Alfred Script Filter JSON Reference](media/alfred-script-filter-json-reference.png)
 
 <br>
 
