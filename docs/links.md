@@ -1,4 +1,4 @@
-<div style="teaxt-align:center;">
+<div style="text-align:center;">
 <br>
 
 ---
