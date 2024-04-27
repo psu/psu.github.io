@@ -3,8 +3,7 @@
 <br>
 
 **Apple Shortcuts**
-- Tana
-- 
+
 
 <br>
 
