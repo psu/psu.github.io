@@ -10,8 +10,8 @@
 I enjoy the creativity in graphic design,  
 programming, pop culture and internet.
 
-I live with my family  
-in Gothenburg, Sweden.
+I live with my family in  
+Gothenburg, Sweden.
 
 <br>
 
