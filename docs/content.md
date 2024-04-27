@@ -4,6 +4,7 @@
 
 **Apple Shortcuts**
 ![Alfred Script Filter JSON Reference](media/alfred-script-filter-json-reference.png ':size=33%')
+![Quick Tana](media/quick-tana.png ':size=33%')
 
 <br>
 
