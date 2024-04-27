@@ -6,13 +6,13 @@
 
 <br>
 
-**Hi! I'm Pontus Sundén.**  
-I enjoy creativity. In graphic design,  
-computers/internet, and programming.
+**Hi, I'm Pontus Sundén.**  
+I enjoy the creativity in graphic design,  
+programming, pop culture and internet.
 
 I live with my family  
 in Gothenburg, Sweden.
 
 <br>
 
-[ENTER](#pontus-sundén)
+[**ENTER**](#pontus-sundén)
