@@ -7,7 +7,7 @@
 <br>
 
 **Hi! I'm Pontus Sundén.**  
-I enjoy the creativity in graphic design,  
+I enjoy creativity. In graphic design,  
 computers/internet, and programming.
 
 I live with my family  
