@@ -3,9 +3,10 @@
 <br>
 
 **Apple Shortcuts**  
+[
 ![Quick Tana](media/quick-tana.png ':size=33%')
 ![Alfred Script Filter JSON Reference](media/alfred-script-filter-json-reference.png ':size=33%')
-
+](https://github.com/psu/apple-shortcuts)
 <br>
 
 **iOrnament**
