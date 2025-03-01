@@ -3,6 +3,7 @@
 <br>
 
 **iOrnament**
+
 [![Wizard Cubes tesselation](media/wizard-cubes.jpg)
 ](https://science-to-touch.com/en/iOrnament.html)
 
@@ -11,6 +12,7 @@
 **Adobe After Effects**
 
 ![Animated marketing content](media/fhv-stress.mp4 ':include :type=video controls loop muted width=100% height=56%')
+
 
 <br>
 
