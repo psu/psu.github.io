@@ -12,7 +12,7 @@ _Shortlet - Tinker with Websites_ let you create shortcuts and custom commands f
 
 **CSS**
 
-My _Zen Mods_ are small UI tweaks for the new [Zen Browser](https://zen-browser.app) based on Firefox.
+A collection of _Zen Mods_: small UI tweaks for the new [Zen Browser](https://zen-browser.app), based on Firefox.
 
 [github.com/psu/zen-mods](https://github.com/psu/zen-mods)
 
@@ -20,7 +20,7 @@ My _Zen Mods_ are small UI tweaks for the new [Zen Browser](https://zen-browser.
 
 **Javascript**
 
-_Text2Tana_ is a small parser that can take a single line of text and convert it to the JSON format used by [Tana Input API](https://tana.inc/docs/input-api) (addToNodeV2).
+_Text2Tana_ is a small parser that takes a single line of text and convert it to the JSON format used by [Tana Input API](https://tana.inc/docs/input-api).
 
 [github.com/psu/text2tana](https://github.com/psu/text2tana)
 
