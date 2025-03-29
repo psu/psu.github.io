@@ -2,21 +2,25 @@
 
 <br>
 
-**Browser extension: Shortlet**
+**Browser extension**
+
+_Shortlet - Tinker with Websites_ let you create shortcuts and custom commands for interacting with your favourit websites. 
 
 [github.com/psu/shortlet](https://github.com/psu/shortlet)
 
 <br>
 
-**CSS: Zen Mods**
+**CSS**
+
+My _Zen Mods_ are small UI tweaks for the new [Zen Browser](https://zen-browser.app) based on Firefox.
 
 [github.com/psu/zen-mods](https://github.com/psu/zen-mods)
 
 <br>
 
-**Javascript: Text2Tana**
+**Javascript**
 
-A small parser that can take a single line of text and convert it to the JSON format used by [Tana Input API](https://tana.inc/docs/input-api) (addToNodeV2).
+_Text2Tana_ is a small parser that can take a single line of text and convert it to the JSON format used by [Tana Input API](https://tana.inc/docs/input-api) (addToNodeV2).
 
 [github.com/psu/text2tana](https://github.com/psu/text2tana)
 
