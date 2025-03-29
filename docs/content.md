@@ -2,6 +2,24 @@
 
 <br>
 
+**Shortlet - Tinker with Websites**
+
+[github.com/psu/shortlet](https://github.com/psu/shortlet)
+
+<br>
+
+**Zen Mods
+
+[github.com/psu/zen-mods](https://github.com/psu/zen-mods)
+
+<br>
+
+**Text2Tana**
+
+[github.com/psu/text2tana](https://github.com/psu/text2tana)
+
+<br>
+
 **iOrnament**
 
 [![Wizard Cubes tesselation](media/wizard-cubes.jpg)
