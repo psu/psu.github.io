@@ -2,6 +2,14 @@
 
 <br>
 
+**Node.js/Express micro-API**
+
+Zød Jayson's Schemanizer - Convert from JSON to Zod Type to JSON Schema. 
+
+[![Zød Jayson's Schemanizer](media/schemanizer.png)](https://schemanizer.fly.app)
+
+<br>
+
 **Browser extension**
 
 _Shortlet - Tinker with Websites_ let you create shortcuts and custom commands for interacting with your favourit websites. 
