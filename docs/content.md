@@ -38,7 +38,7 @@ _Text2Tana_ is a small parser that takes a single line of text and convert it to
 
 The CMYK-split is an exercise in CSS animation and visualization. 
 
-[![The CMYK-split](media/cmyk-split.png)](https://codepen.io/pntus/pen/joyqbww)
+[![The CMYK-split](media/cmyk-split.png)](https://codepen.io/pntus/pen/jOyQbWw)
 
 <br>
 
