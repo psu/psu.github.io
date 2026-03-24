@@ -18,7 +18,7 @@ _Shortlet - Tinker with Websites_ let you create shortcuts and custom commands f
 
 <br>
 
-**CSS**
+**UI Mods**
 
 A collection of _Zen Mods_: small UI tweaks for the new [Zen Browser](https://zen-browser.app), based on Firefox.
 
@@ -31,6 +31,14 @@ A collection of _Zen Mods_: small UI tweaks for the new [Zen Browser](https://ze
 _Text2Tana_ is a small parser that takes a single line of text and convert it to the JSON format used by [Tana Input API](https://tana.inc/docs/input-api).
 
 [github.com/psu/text2tana](https://github.com/psu/text2tana)
+
+<br>
+
+**CSS**
+
+The CMYK-split is an exercise in CSS animation and visualization. 
+
+[![The CMYK-split](media/cmyk-split.png)](https://codepen.io/pntus/pen/joyqbww)
 
 <br>
 
