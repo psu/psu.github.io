@@ -34,6 +34,7 @@ pre code{background:none;border:0;padding:0;font-size:1em}
 .bar-in{max-width:76rem;margin:0 auto;display:flex;align-items:stretch;gap:1rem;height:var(--bar-h);padding:0 1rem}
 .site{flex:none;align-self:center;font:600 1rem/1.4 var(--sans);color:var(--fg);text-decoration:none;max-width:40vw;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .site:visited{color:var(--fg)}
+.site:last-child{max-width:none}
 .site::before{content:"";display:inline-block;width:.55rem;height:.55rem;background:var(--accent);margin-right:.5rem;vertical-align:.08em}
 .bar nav{flex:1;min-width:0;display:flex;align-items:flex-end}
 .tabs{display:flex;gap:.15rem;overflow-x:auto;scrollbar-width:thin;margin:0;padding:0;list-style:none;align-items:flex-end}
@@ -111,12 +112,13 @@ p{margin:.55rem 0}
 ul,ol{margin:.5rem 0;padding-left:1.4rem}
 li{margin:.2rem 0}
 li::marker{color:var(--faint)}
+ul{list-style-type:disc}
+ul>li::marker{font-size:1.25em;line-height:1}
 ul.tasks{list-style:none;padding-left:.2rem}
 ul.tasks ul.tasks{padding-left:1.4rem}
-ul.outline{list-style:square}
 
 /* fields */
-dl.fields{display:grid;grid-template-columns:minmax(5rem,max-content) minmax(0,1fr);margin:.4rem 0 .7rem;font-size:.9rem;border-top:1px dotted var(--rule)}
+dl.fields{display:grid;grid-template-columns:minmax(5rem,max-content) minmax(0,1fr);margin:.4rem 0 .7rem;border-top:1px dotted var(--rule)}
 dl.fields>dt,dl.fields>dd{margin:0;padding:.2rem .6rem .2rem 0;border-bottom:1px dotted var(--rule)}
 dl.fields>dt{color:var(--muted);max-width:14rem;overflow-wrap:anywhere}
 dl.fields>dd{overflow-wrap:anywhere}
